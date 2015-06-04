@@ -1,0 +1,5 @@
+D:\dev-dotnet\bin\Debug\DM_AR.dll
+D:\dev-dotnet\bin\Debug\DM_AR.pdb
+D:\dotnet2_0_projectos\PoEAAWorkbench\PoEAAWorkbench.V1.2005\DM_AR\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\PoEAAWorkbench\PoEAAWorkbench.V1.2005\DM_AR\obj\Debug\DM_AR.dll
+D:\dotnet2_0_projectos\PoEAAWorkbench\PoEAAWorkbench.V1.2005\DM_AR\obj\Debug\DM_AR.pdb

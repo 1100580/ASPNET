@@ -1,0 +1,4 @@
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\Calculos\Calculos\bin\Debug\Calculos.dll
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\Calculos\Calculos\bin\Debug\Calculos.pdb
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\Calculos\Calculos\obj\Debug\Calculos.dll
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\Calculos\Calculos\obj\Debug\Calculos.pdb

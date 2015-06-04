@@ -1,0 +1,54 @@
+D:\dev-dotnet\bin\Debug\DM_AR.dll
+D:\dev-dotnet\bin\Debug\DM_AR.pdb
+D:\dotnet2_0_projectos\PoEAAWorkbench\PoEAAWorkbench.V1.2005\DM_AR\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\PoEAAWorkbench\PoEAAWorkbench.V1.2005\DM_AR\obj\Debug\DM_AR.dll
+D:\dotnet2_0_projectos\PoEAAWorkbench\PoEAAWorkbench.V1.2005\DM_AR\obj\Debug\DM_AR.pdb
+D:\dotnet2_0_projectos\client_Web_DM_AR\DM_AR\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\client_Web_DM_AR\DM_AR\obj\Debug\DM_AR.dll
+D:\dotnet2_0_projectos\client_Web_DM_AR\DM_AR\obj\Debug\DM_AR.pdb
+D:\dotnet2_0_projectos\client_Web_DM_AR\DM_AR\bin\DM_AR.dll
+D:\dotnet2_0_projectos\client_Web_DM_AR\DM_AR\bin\DM_AR.pdb
+D:\dotnet2_0_projectos\client_Web_DM_AR\DM_AR\bin\Common.dll
+D:\dotnet2_0_projectos\client_Web_DM_AR\DM_AR\bin\Common.pdb
+D:\temp\client_Web_DM_AR\client_Web_DM_AR\DM_AR\bin\DM_AR.dll
+D:\temp\client_Web_DM_AR\client_Web_DM_AR\DM_AR\bin\DM_AR.pdb
+D:\temp\client_Web_DM_AR\client_Web_DM_AR\DM_AR\bin\Common.dll
+D:\temp\client_Web_DM_AR\client_Web_DM_AR\DM_AR\bin\Common.pdb
+D:\temp\client_Web_DM_AR\client_Web_DM_AR\DM_AR\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\client_Web_DM_AR\client_Web_DM_AR\DM_AR\obj\Debug\DM_AR.dll
+D:\temp\client_Web_DM_AR\client_Web_DM_AR\DM_AR\obj\Debug\DM_AR.pdb
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\DM_AR\bin\DM_AR.dll
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\DM_AR\bin\DM_AR.pdb
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\DM_AR\bin\Common.dll
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\DM_AR\bin\Common.pdb
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\DM_AR\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\DM_AR\obj\Debug\DM_AR.dll
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\DM_AR\obj\Debug\DM_AR.pdb
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\DM_AR\bin\DM_AR.dll
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\DM_AR\bin\DM_AR.pdb
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\DM_AR\bin\Common.dll
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\DM_AR\bin\Common.pdb
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\DM_AR\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\DM_AR\obj\Debug\DM_AR.dll
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\DM_AR\obj\Debug\DM_AR.pdb
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\DM_AR\bin\DM_AR.dll
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\DM_AR\bin\DM_AR.pdb
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\DM_AR\bin\Common.dll
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\DM_AR\bin\Common.pdb
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\DM_AR\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\DM_AR\obj\Debug\DM_AR.dll
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\DM_AR\obj\Debug\DM_AR.pdb
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\DM_AR\bin\DM_AR.dll
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\DM_AR\bin\DM_AR.pdb
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\DM_AR\bin\Common.dll
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\DM_AR\bin\Common.pdb
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\DM_AR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\DM_AR\obj\Debug\DM_AR.dll
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\DM_AR\obj\Debug\DM_AR.pdb
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\client_Web_DM_ARV1\DM_AR\bin\DM_AR.dll
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\client_Web_DM_ARV1\DM_AR\bin\DM_AR.pdb
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\client_Web_DM_ARV1\DM_AR\bin\Common.dll
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\client_Web_DM_ARV1\DM_AR\bin\Common.pdb
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\client_Web_DM_ARV1\DM_AR\obj\Debug\DM_AR.csprojResolveAssemblyReference.cache
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\client_Web_DM_ARV1\DM_AR\obj\Debug\DM_AR.dll
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\client_Web_DM_ARV1\DM_AR\obj\Debug\DM_AR.pdb

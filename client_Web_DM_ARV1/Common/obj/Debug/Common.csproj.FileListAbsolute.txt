@@ -1,0 +1,38 @@
+D:\dev-dotnet\bin\Debug\Common.dll
+D:\dev-dotnet\bin\Debug\Common.pdb
+D:\dotnet2_0_projectos\client_WEB_MEU_TM_TDG.WithDataSets\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\client_WEB_MEU_TM_TDG.WithDataSets\Common\obj\Debug\Common.dll
+D:\dotnet2_0_projectos\client_WEB_MEU_TM_TDG.WithDataSets\Common\obj\Debug\Common.pdb
+D:\dotnet2_0_projectos\client_WEB_TM_TDG.WithDataSets\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\client_WEB_TM_TDG.WithDataSets\Common\obj\Debug\Common.dll
+D:\dotnet2_0_projectos\client_WEB_TM_TDG.WithDataSets\Common\obj\Debug\Common.pdb
+D:\dotnet2_0_projectos\client_Web_DM_AR\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\client_Web_DM_AR\Common\obj\Debug\Common.dll
+D:\dotnet2_0_projectos\client_Web_DM_AR\Common\obj\Debug\Common.pdb
+D:\temp\client_Web_DM_AR\client_Web_DM_AR\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\client_Web_DM_AR\client_Web_DM_AR\Common\obj\Debug\Common.dll
+D:\temp\client_Web_DM_AR\client_Web_DM_AR\Common\obj\Debug\Common.pdb
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\Common\bin\Common.dll
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\Common\bin\Common.pdb
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\Common\obj\Debug\Common.dll
+D:\dotnet2_0_projectos\client_Web_DM_ARV1Profs\Common\obj\Debug\Common.pdb
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\Common\bin\Common.dll
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\Common\bin\Common.pdb
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\Common\obj\Debug\Common.dll
+D:\dotnet2_0_projectos\client_Web_DM_ARV1\Common\obj\Debug\Common.pdb
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\Common\bin\Common.dll
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\Common\bin\Common.pdb
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\Common\obj\Debug\Common.dll
+C:\Documents and Settings\losa\Desktop\client_Web_DM_ARV1\Common\obj\Debug\Common.pdb
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\Common\bin\Common.dll
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\Common\bin\Common.pdb
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\Common\obj\Debug\Common.dll
+C:\Users\losa\Desktop\client_Web_DM_ARV1\client_Web_DM_ARV1\Common\obj\Debug\Common.pdb
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\client_Web_DM_ARV1\Common\bin\Common.dll
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\client_Web_DM_ARV1\Common\bin\Common.pdb
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\client_Web_DM_ARV1\Common\obj\Debug\Common.dll
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\client_Web_DM_ARV1\Common\obj\Debug\Common.pdb

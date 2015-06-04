@@ -1,0 +1,7 @@
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\Calculos\Console\bin\Debug\Console.exe
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\Calculos\Console\bin\Debug\Console.pdb
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\Calculos\Console\bin\Debug\Calculos.dll
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\Calculos\Console\bin\Debug\Calculos.pdb
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\Calculos\Console\obj\x86\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\Calculos\Console\obj\x86\Debug\Console.exe
+C:\Users\i100580\Documents\Visual Studio 2010\Projects\Calculos\Console\obj\x86\Debug\Console.pdb

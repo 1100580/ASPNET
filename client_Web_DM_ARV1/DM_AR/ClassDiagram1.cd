@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DM_AR.Model.ActiveRecord">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAMABIAAAgQAAAACAAFAAAAAAAQAAAgAAABAAIAA=</HashCode>
+      <FileName>ActiveRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DM_AR.Model.Contract">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="DM_AR.Model.Contract.RevenueRecognition" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Contract.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAFCEIAAAAAAEACAAAAAgAAAgggDABBBCAAAQAAIkAE=</HashCode>
+      <FileName>Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DM_AR.Model.Customer">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAEAAAAIAQAAAABAABAAAAAAAAAAAE=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DM_AR.Model.Product">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIAEAAAAAAQFBAAAAAQAAAABAAAAAQAIAAAAAAE=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
