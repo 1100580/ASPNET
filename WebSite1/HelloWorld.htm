@@ -1,0 +1,297 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="pt" xml:lang="pt">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="https://moodle.isep.ipp.pt/theme/standard/styles.php" />
+<link rel="stylesheet" type="text/css" href="https://moodle.isep.ipp.pt/theme/standard/styles.php" />
+<link rel="stylesheet" type="text/css" href="https://moodle.isep.ipp.pt/theme/ISEP_Novo/styles.php" />
+
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="https://moodle.isep.ipp.pt/theme/standard/styles_ie7.css" />
+<![endif]-->
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="https://moodle.isep.ipp.pt/theme/standard/styles_ie6.css" />
+<![endif]-->
+
+
+    <meta name="keywords" content="moodle, 14588: HelloWorld.htm " />
+    <title>14588: HelloWorld.htm</title>
+    <link rel="shortcut icon" href="https://moodle.isep.ipp.pt/theme/ISEP_Novo/favicon.ico" />
+    <script type="text/javascript" src="https://moodle.isep.ipp.pt/lib/speller/spellChecker.js"></script>
+<!--<style type="text/css">/*<![CDATA[*/ body{behavior:url(https://moodle.isep.ipp.pt/lib/csshover.htc);} /*]]>*/</style>-->
+
+<script type="text/javascript" src="https://moodle.isep.ipp.pt/lib/javascript-static.js"></script>
+<script type="text/javascript" src="https://moodle.isep.ipp.pt/lib/javascript-mod.php"></script>
+<script type="text/javascript" src="https://moodle.isep.ipp.pt/lib/overlib/overlib.js"></script>
+<script type="text/javascript" src="https://moodle.isep.ipp.pt/lib/overlib/overlib_cssstyle.js"></script>
+<script type="text/javascript" src="https://moodle.isep.ipp.pt/lib/cookies.js"></script>
+<script type="text/javascript" src="https://moodle.isep.ipp.pt/lib/ufo.js"></script>
+<script type="text/javascript" src="https://moodle.isep.ipp.pt/lib/dropdown.js"></script>  
+
+<script type="text/javascript" defer="defer">
+//<![CDATA[
+setTimeout('fix_column_widths()', 20);
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function openpopup(url,name,options,fullscreen) {
+  fullurl = "https://moodle.isep.ipp.pt" + url;
+  windowobj = window.open(fullurl,name,options);
+  if (fullscreen) {
+     windowobj.moveTo(0,0);
+     windowobj.resizeTo(screen.availWidth,screen.availHeight);
+  }
+  windowobj.focus();
+  return false;
+}
+
+function uncheckall() {
+  void(d=document);
+  void(el=d.getElementsByTagName('INPUT'));
+  for(i=0;i<el.length;i++) {
+    void(el[i].checked=0);
+  }
+}
+
+function checkall() {
+  void(d=document);
+  void(el=d.getElementsByTagName('INPUT'));
+  for(i=0;i<el.length;i++) {
+    void(el[i].checked=1);
+  }
+}
+
+function inserttext(text) {
+  text = ' ' + text + ' ';
+  if ( opener.document.forms['theform'].message.createTextRange && opener.document.forms['theform'].message.caretPos) {
+    var caretPos = opener.document.forms['theform'].message.caretPos;
+    caretPos.text = caretPos.text.charAt(caretPos.text.length - 1) == ' ' ? text + ' ' : text;
+  } else {
+    opener.document.forms['theform'].message.value  += text;
+  }
+  opener.document.forms['theform'].message.focus();
+}
+
+function getElementsByClassName(oElm, strTagName, oClassNames){
+	var arrElements = (strTagName == "*" && oElm.all)? oElm.all : oElm.getElementsByTagName(strTagName);
+	var arrReturnElements = new Array();
+	var arrRegExpClassNames = new Array();
+	if(typeof oClassNames == "object"){
+		for(var i=0; i<oClassNames.length; i++){
+			arrRegExpClassNames.push(new RegExp("(^|\\s)" + oClassNames[i].replace(/\-/g, "\\-") + "(\\s|$)"));
+		}
+	}
+	else{
+		arrRegExpClassNames.push(new RegExp("(^|\\s)" + oClassNames.replace(/\-/g, "\\-") + "(\\s|$)"));
+	}
+	var oElement;
+	var bMatchesAll;
+	for(var j=0; j<arrElements.length; j++){
+		oElement = arrElements[j];
+		bMatchesAll = true;
+		for(var k=0; k<arrRegExpClassNames.length; k++){
+			if(!arrRegExpClassNames[k].test(oElement.className)){
+				bMatchesAll = false;
+				break;
+			}
+		}
+		if(bMatchesAll){
+			arrReturnElements.push(oElement);
+		}
+	}
+	return (arrReturnElements)
+}
+//]]>
+</script>
+    <script language="javascript">
+     function doSel(obj)
+ 		{
+    	for (i = 1; i < obj.length; i++)
+        if (obj[i].selected == true)
+           eval(obj[i].value);
+		}
+
+		function CreateBookmarkLink(url, title) {
+			if( window.external ) { // IE Favorite
+				window.external.AddFavorite( url, title);
+			}else{
+				alert("Prima OK\nSeguidamente pressione Ctrl + D para adicionar aos favoritos");
+			}
+		}
+		
+		</script>
+</head>
+
+<body    class="mod-resource course-234890 dir-ltr lang-pt_utf8" id="mod-resource-view">
+
+<table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
+<TR>
+<TD background="https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/bkgnd_topcenter.jpg" width="100%" bgcolor="#ffffff">
+
+<div id="page">
+
+       <table width="100%" cellpadding="0" cellspacing="0" border="0" class="headerhome">
+	   		<tr>
+
+	   <td width=400><a href="https://moodle.isep.ipp.pt/"><img src="https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/logoleft_small.jpg" border="0"></a></td>
+	   <td align="right" valign="top"><div class="navbar"><div class="navbutton">&nbsp;</div></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</td>
+	   </tr>
+	   <tr>
+	        	<td width="100%" nowrap colspan="2" valign="middle" background="https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/header_sub_bg.jpg">
+
+
+
+	<div class="navbar clearfix">
+
+	<div class="breadcrumb"><h2 class="accesshide " >Você está aqui</h2><ul>
+<li class="first">
+<a  onclick="this.target='_top'" href="https://moodle.isep.ipp.pt/">Moodle-ISEP</a>
+</li>
+<li class="first"> <span class="accesshide " >/&nbsp;</span><span class="arrow sep">&#x25BA;</span> 
+<a  onclick="this.target='_top'" href="https://moodle.isep.ipp.pt/course/category.php?id=1381">2012 / 2013</a>
+</li>
+<li class="first"> <span class="accesshide " >/&nbsp;</span><span class="arrow sep">&#x25BA;</span> 
+<a  onclick="this.target='_top'" href="https://moodle.isep.ipp.pt/course/category.php?id=1441">Engenharia Inform&aacute;tica</a>
+</li>
+<li class="first"> <span class="accesshide " >/&nbsp;</span><span class="arrow sep">&#x25BA;</span> 
+<a  onclick="this.target='_top'" href="https://moodle.isep.ipp.pt/course/category.php?id=1442">3 Ano - Licenciatura</a>
+</li>
+<li class="first"> <span class="accesshide " >/&nbsp;</span><span class="arrow sep">&#x25BA;</span> 
+<a  onclick="this.target='_top'" href="https://moodle.isep.ipp.pt/course/category.php?id=1443">1 Semestre</a>
+</li>
+<li class="first"> <span class="accesshide " >/&nbsp;</span><span class="arrow sep">&#x25BA;</span> 
+<a  onclick="this.target='_top'" href="https://moodle.isep.ipp.pt/course/view.php?id=234890">ARQSI</a>
+</li>
+</ul>
+</div>
+	<div class="navigation">
+<ul><li><form action="https://moodle.isep.ipp.pt/mod/resource/view.php" onclick="this.target='_top';"><fieldset class="invisiblefieldset"><input type="hidden" name="id" value="106671" /><button type="submit" title="Actividade anterior"><span class="arrow ">&#x25C4;</span><span class="accesshide " >&nbsp;Actividade anterior</span></button></fieldset></form></li><li><form action="https://moodle.isep.ipp.pt/course/jumpto.php" method="get"  id="navmenupopup" class="popupform"><div><select id="navmenupopup_jump" name="jump" onchange="self.location=document.getElementById('navmenupopup').jump.options[document.getElementById('navmenupopup').jump.selectedIndex].value;">
+   <optgroup label="Tópico 1">   <option value="https://moodle.isep.ipp.pt/mod/forum/view.php?id=105322" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/forum/icon.gif);">Notícias</option>
+   </optgroup>   <optgroup label="Tópico 3">   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=112937" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Enunciado da 1ª parte do trabalho prático</option>
+   <option value="https://moodle.isep.ipp.pt/mod/assignment/view.php?id=114376" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/assignment/icon.gif);">Entrega da 1ª parte do trabalho prático</option>
+   </optgroup>   <optgroup label="Tópico 4">   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106580" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Introdução</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106581" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exemplo de documento SAD - 1</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106582" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exemplo de documento SAD - 2</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106583" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Arquitectura da Wikipedia - divulgado pelo aluno J...</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=112245" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Facebook Architecture</option>
+   </optgroup>   <optgroup label="Tópico 5">   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106594" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">JavaScript</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=110057" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">JavaScript &amp; DHTML Cookbook</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106596" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">DOM</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106597" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Modern HTML Presentations: HTML 5 / CSS 3.0 ... di...</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106599" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">PHP Introdução</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106601" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">AJAX</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106602" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">"Subverting Ajax " - Artigo divulgado pelo aluno C...</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106604" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">PHP: Acesso a Dados e Gestão de Estado</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106665" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">PHP Net - Site Oficial</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106666" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">PHP MYSQL</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106607" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Framework .NET</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106609" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Introdução ao Desenvolvimento ASP.NET</option>
+   </optgroup>   <optgroup label="Tópico 6">   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106623" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">HTML ( Revisão)</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106624" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">HTML Tutorial - w3schools</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106625" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">CSS Tutorial - w3schools</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106626" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">CSS Tutorial - W3C</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=110068" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">HTML 5 - em desenvolvimento</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106628" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exercício</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106629" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Validar Formulario</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106630" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Download ( html)</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106631" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">imagem</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=109990" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exemplo JS - Objecto Navigator</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=110045" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exemplo JS - DOM - CSS</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=110046" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exemplo JS - Eventos</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106636" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Firebug</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106637" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Introduction Firebug</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106638" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">IE JS Debugger - Discovering Internet Explorer Dev...</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106639" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Standard ECMA-262 ECMAScript Language Specification</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106640" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">JavaScript / DOM Quick Reference</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106641" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">JavaScript W3Schools</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=110017" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">JavaScript Games</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106643" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exercícios DOM - JS</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106644" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exemplo DOM 1</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106645" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exemplo DOM 2</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106646" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exemplo DOM 3</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106647" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Execício Freguesias DOM  / JS</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106648" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exercício 4 Página Base (TPC)</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106650" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">W3C DOM Core</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106651" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">XML DOM - w3schools</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106653" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Trabalhar na Máquina phpdev</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106654" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exercícios Php / Ajax</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=112244" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Ficheiros para o exercício 4 de PHP</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106655" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Enunciado Exercício 6</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106656" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Página Base PHP</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106657" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Página Base HTML</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106658" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exercícios PHP Acesso a Dados</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106660" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">WAMP  Apache, MySQL, PHP on Windows</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106661" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">PHP Function List</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106662" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">PHP - RefCardz DZone</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106663" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">PHP Quick Reference Sheet -Basics</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106664" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">PHP Quick Reference Sheet - Advanced</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106667" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">PHP - w3schools</option>
+   </optgroup>   <optgroup label="Tópico 7">   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106670" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Introdução ao desenvolvimento ASP.NET (ppt)</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106671" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exercícios WebForms ASP.NET</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106672" selected="selected" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Ir para...</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106673" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">HelloWorld.aspx</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=114164" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">download</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=114096" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">HelloWorldV2.aspx</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=114098" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">(código fonte c#)</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=114166" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">download</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106674" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">MyFirstWebForm</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=114102" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">(código fonte c#)</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=114167" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">download</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106676" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Exercício Máquina de Calcular</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106677" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Resumo do Guião Componentes para a PL</option>
+   <option value="https://moodle.isep.ipp.pt/mod/resource/view.php?id=106678" style="background-image: url(https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/mod/resource/icon.gif);">Guião Componentes</option>
+    </optgroup></select><input type="hidden" name="sesskey" value="OjhzsuSz8h" /><div id="noscriptnavmenupopup" style="display: inline;"><input type="submit" value="Ir" /></div><script type="text/javascript">
+//<![CDATA[
+document.getElementById("noscriptnavmenupopup").style.display = "none";
+//]]>
+</script></div></form></li><li><form action="https://moodle.isep.ipp.pt/mod/resource/view.php"  onclick="this.target='_top';"><fieldset class="invisiblefieldset"><input type="hidden" name="id" value="106673" /><button type="submit" title="Próxima actividade"><span class="accesshide " >Próxima actividade&nbsp;</span><span class="arrow ">&#x25BA;</span></button></fieldset></form></li></ul>
+</div>
+	</div>
+
+
+</td></tr></table>
+</td>
+
+</tr>
+</table>
+
+
+<div id="page">
+<table width="100%" align="center" cellpadding="5" border="1" bordercolor="#bbbbbb">
+<tr><td>
+    <div class="clearer">&nbsp;</div>
+    <!-- END OF HEADER -->  
+    <div id="content">
+<script type="text/javascript">
+<!--
+openpopup('/mod/resource/view.php?inpopup=true&id=106672','resource74331','resizable=1,scrollbars=1,directories=1,location=1,menubar=1,toolbar=1,status=1,width=620,height=450');
+
+-->
+</script><div class="popupnotice">Este documento deverá aparecer numa nova janela.<br />Se não foi assim, click aqui: <a href="https://moodle.isep.ipp.pt/mod/resource/view.php?inpopup=true&amp;id=106672" onclick="this.target='resource74331'; return openpopup('/mod/resource/view.php?inpopup=true&amp;id=106672', 'resource74331','resizable=1,scrollbars=1,directories=1,location=1,menubar=1,toolbar=1,status=1,width=620,height=450');">HelloWorld.htm</a></div></td>
+</tr>
+</table>
+
+
+<!-- START OF FOOTER -->
+<table align="center" width="100%" border="0" cellpadding="5" cellspacing="0" background="https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/header_sub_bg.jpg">
+    <tr>
+      <td width="70%" height="44" valign="top" align=left>
+<div class="noresize"><div class="logininfo">Nome de utilizador: <a  href="https://moodle.isep.ipp.pt/user/view.php?id=14945&amp;course=234890">FERNANDO 1100580</a>.  (<a  href="https://moodle.isep.ipp.pt/login/logout.php?sesskey=OjhzsuSz8h">Sair</a>)</div></div>
+	</td>
+<td align=right>
+<a href="#" onClick='{open("https://moodle.isep.ipp.pt/helpdesk/helpdesk.php","","width=570,height=350,toolbar=no,scrollbars=no,resizable=no,status=no,directories=no,menubar=no,location=no,top=200,left=200");}'>Helpdesk</a> &nbsp;<a href="http://www.instantssl.com"><img width="85" height="51" style="border: 0px none;" alt="Instant SSL Certificate Secure Site" src="https://moodle.isep.ipp.pt/theme/ISEP_Novo/pix/horz_master_85pixels.gif"></a> 
+</td>
+    </tr>
+</table>
+</td>
+
+</tr></table>
+<center></center>
+
+</body>
+</html>
+
+
