@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TM_TDG.WithDataSets.BLL.Contract">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAACAAQAAAAAAAAAAAAAAAgAAAAgAAEA=</HashCode>
+      <FileName>BLL\Contract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TM_TDG.WithDataSets.BLL.Customer">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TM_TDG.WithDataSets.BLL.Product">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAABAAAAAAAAAAAAAAAQAAIAAAAAAA=</HashCode>
+      <FileName>BLL\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TM_TDG.WithDataSets.DAL.BaseGateway">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAABIAAAAQAAAACAAFCAAAAAAAAAAAAAABAAIAA=</HashCode>
+      <FileName>DAL\BaseGateway.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TM_TDG.WithDataSets.DAL.ContractGateway">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAACAAAAAAAAAAAACAAAAAAAAAAAAgAAAAgAAEA=</HashCode>
+      <FileName>DAL\ContractGateway.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TM_TDG.WithDataSets.DAL.CustomerGateway">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>DAL\CustomerGateway.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TM_TDG.WithDataSets.DAL.ProductGateway">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>DAL\ProductGateway.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
